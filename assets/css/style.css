@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    background: url(../img/BG.jpg) no-repeat center;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+    text-align: center;
+    color: #CDD4DE;
+}
+p{
+    opacity: 0.5;
+}
+span{
+    color: black;
+}
+article p{
+    display: inline;
+    margin: 0;
+    padding: 5px;
+    font-size: 48px;
+}
+header p{
+    margin: 0;
+    padding: 0;
+    font-size: 18px; 
+}
+h1 {
+    margin: 0;
+    margin: auto;
+    padding-top: 150px;
+    font-size: 6cm;
+    opacity: 0.5;
+}
+footer p{
+    margin: 0;
+    margin: auto;
+    margin-top: 100px;
+    padding: 10px 25px;
+    border: #CDD4DE solid 1px;
+    border-radius: 3px;
+    width:100px;
+}
+footer p:hover{
+    background: #565c73;
+}
